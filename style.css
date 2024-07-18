@@ -171,3 +171,8 @@ button,a {
 .carousel-indicators{
     bottom:-20%;
 }
+/* styling of card part */
+
+.card-body i{
+ margin-top: 5px;
+}        
